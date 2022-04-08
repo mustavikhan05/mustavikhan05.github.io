@@ -1,0 +1,25 @@
+body {
+background-color: #282c35;
+}
+
+#profilePhoto{
+width: 200px;
+height: 200px;
+}
+
+
+
+.intro-div{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    width: auto;
+}
+
+@media screen and (min-width: 750px) {
+    .intro {
+        width:750px;
+    }
+}
+
+
